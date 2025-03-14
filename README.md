@@ -62,5 +62,5 @@ Visualize the key insights obtained from the analysis questions on the [Sales An
 
 Feel free to connect with me on LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ibrahim-513531202/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/p-s-s-s/)
 
